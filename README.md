@@ -1,4 +1,4 @@
-<h1>Hi, I go by Spyder, an <a href="www.linkedin.com/carl-elijah-37499a295">IT Professional</a>☺</h1>
+<h1>Hi, I go by Spyder, an <a href="https://www.linkedin.com/in/carl-elijah-37499a295/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

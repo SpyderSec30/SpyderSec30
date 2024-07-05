@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SpyderSec30/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SpyderSec30/post-install-config)
-  - [osTicket: Life Cycle of a ticket](https://github.com/SpyderSec30/ticket-lifecycle)
+  - [osTicket: Life Cycle of a Ticket](https://github.com/SpyderSec30/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)

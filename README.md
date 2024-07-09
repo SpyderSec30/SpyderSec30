@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/SpyderSec30/post-install-config)
   - [osTicket: Life Cycle of a Ticket](https://github.com/SpyderSec30/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/SpyderSec30/Active-Directory-within-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>

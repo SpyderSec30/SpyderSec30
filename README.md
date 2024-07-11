@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/SpyderSec30/Active-Directory-within-Azure)
   - [Working With Active Directory](https://github.com/SpyderSec30/Working-with-Active-Directory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SpyderSec30/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SpyderSec30/Azure-Network-Security-Groups-and-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
 
